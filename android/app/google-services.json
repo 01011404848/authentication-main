@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "575919727825",
+    "project_id": "authentication-f27c1",
+    "storage_bucket": "authentication-f27c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575919727825:android:fdc8550bcb55b4738411f0",
+        "android_client_info": {
+          "package_name": "com.example.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575919727825-tnvbmho8audpm92att05jtvaqp12spq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_XsSwWLqpesSfjf1TUaxwxSjBb4SUd5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575919727825-tnvbmho8audpm92att05jtvaqp12spq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
